@@ -12,8 +12,9 @@ I don't know if I have the right to share the data without a proper license so i
 - [Red-Light Cameras](https://open.ottawa.ca/datasets/ottawa::red-light-camera-violations-2022/about)
 - [Centrelines](https://open.ottawa.ca/datasets/ottawa::road-centrelines/about)
 ## Instructions
-To run collisions_per_year_cams.ipynb use a code editor compatible with jupyter notebook kernels, also geopandas must be installed in the environment before use.
-Ensure that an outputs folder has been created in the directory the script is in, as well as necessary inputs as shown in the Script Data Portion
+To run collisions_per_year_cams.ipynb use a code editor compatible with [jupyter notebook](https://jupyter.org/) as well as [geopandas](https://geopandas.org/en/stable/getting_started.html) installed in your environment.
+
+Ensure that an outputs folder has been created in the directory the script is in, as well as necessary inputs as shown in the Script Data Section.
 ## Tables
 Tables are the modified tables exported from ArcGIS Pro based on the shapefiles found on Open Ottawa which calculate revenue of fines.
 
