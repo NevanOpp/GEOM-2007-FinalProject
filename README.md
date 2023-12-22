@@ -1,7 +1,7 @@
 # Additional files for Final Project for GEOM 2007 - Analysis of Red-Light and Speed Cameras in Ottawa
 ## Data
+I don't know if I have the right to share the data without a proper license so if you'd like to use the scripts please download the data from Open Ottawa:
 ### Script Data
-I don't think I have the right to share the data without a proper license so if you'd like to use the scripts please download the data from here:
 - [Speed Camera Data (2022)](https://open.ottawa.ca/datasets/ottawa::automated-speed-enforcement-camera-violations-2022/about)
   - Named "speed_cams.zip" in the script
   - Any year should be useable, unless format is changed in future years.
